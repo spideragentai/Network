@@ -1,0 +1,12 @@
+{
+  "ports": [
+    22,
+    80,
+    443,
+    3389
+  ],
+  "timeout_seconds": 1.5,
+  "concurrency": 100,
+  "max_hosts": 4096,
+  "delay_between_batches_ms": 0
+}
